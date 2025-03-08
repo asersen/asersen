@@ -1,5 +1,5 @@
 ## 🚀 Sobre mí
-Soy un desarrollador de software con experiencia en proyectos de chatbots e inteligencia artificial. Completé 1000 horas de prácticas DUAL en DXC y, tras finalizar, fui contratado en 2023, donde sigo trabajando hasta la fecha.
+Soy un desarrollador de software con experiencia en proyectos de chatbots e inteligencia artificial. Completé 1000 horas de prácticas DUAL en DXC y, tras finalizar, fui contratado. Desde 2023 sigo trabajando hasta la fecha.
 
 ## 🛠️ Tecnologías y herramientas
 - 🔹 Lenguajes: Java, Python
