@@ -8,7 +8,7 @@ Soy un desarrollador de software con experiencia en proyectos de chatbots e inte
 - 🔹 Herramientas: Git, Docker, VS Code
 
 ## 📊 Estadísticas de GitHub
-![Tu nombre GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=dark)
+![Tu nombre GitHub stats](https://github-readme-stats.vercel.app/api?username=asersen&show_icons=true&theme=dark)
 
 ## 🌍 Idiomas
 - 🗣️ Catalán, Español (nativos)
